@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Convert Miles to Km</string>
+    <string name="lbl1">Miles</string>
+    <string name="lbl2">Kms</string>
+    <string name="btn1">Convert Miles To Kms</string>
+    <string name="btn2">Convert Kms To Miles</string>
+</resources>
